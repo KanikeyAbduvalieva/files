@@ -1,4 +1,3 @@
-import re
 # Task 1
 file = open('test.txt', 'w')
 file.write('HELLOWORLD\nPython')
